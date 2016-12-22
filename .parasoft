@@ -1,4 +1,31 @@
-#Mon Dec 19 15:35:09 CET 2016
+#Mon Dec 19 15:51:48 CET 2016
+.datasources/ds-module.wk\:///SF1590B-batch/SF1590_B-Afsend-debitorregistrering-v.2-batch.tst\#0000000000\#0000000011\#0000000012\#0000000013/datasources=ds_2007867499_1481699794866_1609454751
+.datasources/ds-module.wk\:///SF1590B-batch/SF1590_B-Afsend-debitorregistrering-v.2-batch.tst\#0000000000\#0000000011\#0000000012\#0000000013/ds_2007867499_1481699794866_1609454751.first_row=0
+.datasources/ds-module.wk\:///SF1590B-batch/SF1590_B-Afsend-debitorregistrering-v.2-batch.tst\#0000000000\#0000000011\#0000000012\#0000000013/ds_2007867499_1481699794866_1609454751.last_row=0
+.datasources/ds-module.wk\:///SF1590B-batch/SF1590_B-Afsend-debitorregistrering-v.2-batch.tst\#0000000000\#0000000011\#0000000012\#0000000013/ds_2007867499_1481699794866_1609454751.name=HITSource
+.datasources/ds-module.wk\:///SF1590B-batch/SF1590_B-Afsend-debitorregistrering-v.2-batch.tst\#0000000000\#0000000011\#0000000012\#0000000013/ds_2007867499_1481699794866_1609454751.table_columns_size=30
+.datasources/ds-module.wk\:///SF1590B-batch/SF1590_B-Afsend-debitorregistrering-v.2-batch.tst\#0000000000\#0000000011\#0000000012\#0000000013/ds_2007867499_1481699794866_1609454751.table_contain_header=true
+.datasources/ds-module.wk\:///SF1590B-batch/SF1590_B-Afsend-debitorregistrering-v.2-batch.tst\#0000000000\#0000000011\#0000000012\#0000000013/ds_2007867499_1481699794866_1609454751.table_content_0_0=UserSystem
+.datasources/ds-module.wk\:///SF1590B-batch/SF1590_B-Afsend-debitorregistrering-v.2-batch.tst\#0000000000\#0000000011\#0000000012\#0000000013/ds_2007867499_1481699794866_1609454751.table_content_0_1=SendersFileName
+.datasources/ds-module.wk\:///SF1590B-batch/SF1590_B-Afsend-debitorregistrering-v.2-batch.tst\#0000000000\#0000000011\#0000000012\#0000000013/ds_2007867499_1481699794866_1609454751.table_content_0_2=InfRef
+.datasources/ds-module.wk\:///SF1590B-batch/SF1590_B-Afsend-debitorregistrering-v.2-batch.tst\#0000000000\#0000000011\#0000000012\#0000000013/ds_2007867499_1481699794866_1609454751.table_content_0_3=DebitorLeverancedataAfgivendeMyndighed
+.datasources/ds-module.wk\:///SF1590B-batch/SF1590_B-Afsend-debitorregistrering-v.2-batch.tst\#0000000000\#0000000011\#0000000012\#0000000013/ds_2007867499_1481699794866_1609454751.table_content_0_4=RecipientAuthority
+.datasources/ds-module.wk\:///SF1590B-batch/SF1590_B-Afsend-debitorregistrering-v.2-batch.tst\#0000000000\#0000000011\#0000000012\#0000000013/ds_2007867499_1481699794866_1609454751.table_content_0_5=DebitorLeverancedataDebitoransvarligMyndighed
+.datasources/ds-module.wk\:///SF1590B-batch/SF1590_B-Afsend-debitorregistrering-v.2-batch.tst\#0000000000\#0000000011\#0000000012\#0000000013/ds_2007867499_1481699794866_1609454751.table_content_0_6=DebitorLeverancedataAfgivendeITSystem
+.datasources/ds-module.wk\:///SF1590B-batch/SF1590_B-Afsend-debitorregistrering-v.2-batch.tst\#0000000000\#0000000011\#0000000012\#0000000013/ds_2007867499_1481699794866_1609454751.table_content_0_7=SendersFileId
+.datasources/ds-module.wk\:///SF1590B-batch/SF1590_B-Afsend-debitorregistrering-v.2-batch.tst\#0000000000\#0000000011\#0000000012\#0000000013/ds_2007867499_1481699794866_1609454751.table_content_0_8=SFTPName
+.datasources/ds-module.wk\:///SF1590B-batch/SF1590_B-Afsend-debitorregistrering-v.2-batch.tst\#0000000000\#0000000011\#0000000012\#0000000013/ds_2007867499_1481699794866_1609454751.table_content_1_0=KSD
+.datasources/ds-module.wk\:///SF1590B-batch/SF1590_B-Afsend-debitorregistrering-v.2-batch.tst\#0000000000\#0000000011\#0000000012\#0000000013/ds_2007867499_1481699794866_1609454751.table_content_1_1=Debitorregistreringer
+.datasources/ds-module.wk\:///SF1590B-batch/SF1590_B-Afsend-debitorregistrering-v.2-batch.tst\#0000000000\#0000000011\#0000000012\#0000000013/ds_2007867499_1481699794866_1609454751.table_content_1_2=SF1590_B_IF02-03
+.datasources/ds-module.wk\:///SF1590B-batch/SF1590_B-Afsend-debitorregistrering-v.2-batch.tst\#0000000000\#0000000011\#0000000012\#0000000013/ds_2007867499_1481699794866_1609454751.table_content_1_3=urn\:oio\:cvr-nr\:64942212
+.datasources/ds-module.wk\:///SF1590B-batch/SF1590_B-Afsend-debitorregistrering-v.2-batch.tst\#0000000000\#0000000011\#0000000012\#0000000013/ds_2007867499_1481699794866_1609454751.table_content_1_4=urn\:oio\:cvr-nr\:64942212
+.datasources/ds-module.wk\:///SF1590B-batch/SF1590_B-Afsend-debitorregistrering-v.2-batch.tst\#0000000000\#0000000011\#0000000012\#0000000013/ds_2007867499_1481699794866_1609454751.table_content_1_5=urn\:oio\:cvr-nr\:64942212
+.datasources/ds-module.wk\:///SF1590B-batch/SF1590_B-Afsend-debitorregistrering-v.2-batch.tst\#0000000000\#0000000011\#0000000012\#0000000013/ds_2007867499_1481699794866_1609454751.table_content_1_6=db6e15db-1ee7-48dc-8492-206dca18611f
+.datasources/ds-module.wk\:///SF1590B-batch/SF1590_B-Afsend-debitorregistrering-v.2-batch.tst\#0000000000\#0000000011\#0000000012\#0000000013/ds_2007867499_1481699794866_1609454751.table_content_1_7=Debitorregistrering - Debitorkontering
+.datasources/ds-module.wk\:///SF1590B-batch/SF1590_B-Afsend-debitorregistrering-v.2-batch.tst\#0000000000\#0000000011\#0000000012\#0000000013/ds_2007867499_1481699794866_1609454751.table_content_1_8=Testtool01
+.datasources/ds-module.wk\:///SF1590B-batch/SF1590_B-Afsend-debitorregistrering-v.2-batch.tst\#0000000000\#0000000011\#0000000012\#0000000013/ds_2007867499_1481699794866_1609454751.table_rows_size=100
+.datasources/ds-module.wk\:///SF1590B-batch/SF1590_B-Afsend-debitorregistrering-v.2-batch.tst\#0000000000\#0000000011\#0000000012\#0000000013/ds_2007867499_1481699794866_1609454751.type=Table
+.datasources/ds-module.wk\:///SF1590B-batch/SF1590_B-Afsend-debitorregistrering-v.2-batch.tst\#0000000000\#0000000011\#0000000012\#0000000013/ds_2007867499_1481699794866_1609454751.use_all_rows=true
 .datasources/ds-module.wk\:///SF1590B-batch/SF1590_B-Afsend-debitorregistrering-v.2-batch.tst\#0000000000\#0000000011\#0000000015\#0000000016/datasources=ds_-1899851637_1481551879994_1415561748
 .datasources/ds-module.wk\:///SF1590B-batch/SF1590_B-Afsend-debitorregistrering-v.2-batch.tst\#0000000000\#0000000011\#0000000015\#0000000016/ds_-1899851637_1481551814164_1074281017.closeconn=true
 .datasources/ds-module.wk\:///SF1590B-batch/SF1590_B-Afsend-debitorregistrering-v.2-batch.tst\#0000000000\#0000000011\#0000000015\#0000000016/ds_-1899851637_1481551814164_1074281017.first_row.internal=1
